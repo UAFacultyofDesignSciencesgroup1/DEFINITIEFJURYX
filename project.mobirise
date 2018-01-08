@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Module10",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -21,8 +21,8 @@
         "display5Size": "1",
         "display7Font": "Arapey",
         "display7Size": 1,
-        "display4Font": "Rubik",
-        "display4Size": 1,
+        "display4Font": "Open Sans Condensed",
+        "display4Size": "7",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
